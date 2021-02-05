@@ -27,6 +27,11 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
+      "matches": ["https://canvas.case.edu/*"]
+    },
+    {
+      "css": ["canvas.css"],
+      "js": ["canvas.js"],
       "matches": ["https://*.instructure.com/*"]
     },
     {
